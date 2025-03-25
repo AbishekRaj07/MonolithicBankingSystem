@@ -1,0 +1,21 @@
+2025-03-16 09:55:11 - Customer registered: CTam0001
+2025-03-16 09:55:51 - KYC approved for: CTam0001
+2025-03-16 09:57:12 - CTam0001 used service: Savings Account at Tamilnad Mercantile Bank
+2025-03-16 09:59:15 - Forex conversion: 378.0 USD to 32984.293193717276 INR
+2025-03-16 10:00:27 - Tax calculated: Income 3000000.0 INR -> Tax 900000.0
+2025-03-16 10:01:18 - Tax calculated: Income 450000.0 USD -> Tax 135000.0
+2025-03-17 19:19:21 - Customer registered: CHDF0001
+2025-03-17 19:19:48 - KYC approved for: CHDF0001
+2025-03-17 19:21:51 - Customer registered: CDeu0001
+2025-03-17 19:23:03 - KYC approved for: CDeu0001
+2025-03-17 19:24:11 - International transfer: 15000.0 INR to 171.9 USD
+2025-03-17 19:54:07 - Customer registered: C-HDF-000001
+2025-03-17 19:54:34 - KYC approved for: C-HDF-000001
+2025-03-17 19:55:52 - Customer registered: C-DEU-000001
+2025-03-17 19:56:18 - KYC approved for: C-DEU-000001
+2025-03-17 19:59:16 - International transfer: 15000.0 EUR from Deutsche Bank (A-DEU-000001) to 1203852.327447833 INR at HDFC Bank (A-HDF-000001)
+2025-03-17 19:59:42 - Login successful: C-HDF-000001
+2025-03-18 10:44:38 - Customer registered: C-HDF-000001
+2025-03-18 10:45:35 - KYC approved for: C-HDF-000001
+2025-03-18 10:47:29 - Customer registered: C-DEU-000001
+2025-03-18 10:47:59 - KYC approved for: C-DEU-000001
